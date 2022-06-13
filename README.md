@@ -1,3 +1,10 @@
+# fLock's Commentary
+(6/13/2022)
+I didn't really do much to modify the HUD (it's a pretty damn good HUD) but I made some changes
+There's a good chance I missed some b/c I made these edits a long while ago and just now updated since I started playing TF2 again
+I probably could list them all by looking at the diff on github but I'm lazy
+## Changes (besides customizations already included with Peach's version)
++ Moved the Health and Ammo to be closer to the crosshair
 # PeachHUD
 A Team Fortress 2 HUD made by Peaches and streamlined for competitive, while maintaining a clean and minimalistic look.  
 Based on SunsetHUD Dark, by Hypnotize.
