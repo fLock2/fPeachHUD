@@ -1,5 +1,5 @@
 "Resource/UI/HudMedicCharge.res"
-{		
+{	
 	"UberAnchor"					//Use this to move the health
 	{
 		"ControlName"				"EditablePanel"
@@ -44,7 +44,7 @@
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
 	}
-
+	
 	"IndividualChargesLabel"
 	{
 		"ControlName"				"CExLabel"
@@ -93,7 +93,7 @@
 		"brighttext"				"0"
 		"bgcolor_override"			"BlackLightTransparent"
 	}		
-
+	
 	"ChargeMeter1"
 	{	
 		"ControlName"				"ContinuousProgressBar"
@@ -115,7 +115,7 @@
 		
 		"pin_to_sibling"			"ChargeMeter"
 	}
-
+	
 	"ChargeMeter2"
 	{	
 		"ControlName"				"ContinuousProgressBar"
@@ -138,7 +138,7 @@
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-
+	
 	"ChargeMeter3"
 	{	
 		"ControlName"				"ContinuousProgressBar"
@@ -162,7 +162,7 @@
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-
+	
 	"ChargeMeter4"
 	{	
 		"ControlName"				"ContinuousProgressBar"
@@ -227,14 +227,14 @@
 		"fieldName"					"Background"
 		"xpos"						"99999"
 	}
-
+	
 	"HealthClusterIcon"
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"HealthClusterIcon"
 		"xpos"						"99999"
 	}
-
+	
 	// UBER TRACKING LABELS, PUT THIS IN /TF/CUSTOM/(YOURCUSTOMFOLDER)/RESOURCE/UI/HUDMEDICCHARGE.RES
        
         "Uber10"
@@ -255,7 +255,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
- 
+		
         "Uber20"
         {
                 "ControlName"   		"CExLabel"
@@ -274,7 +274,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber30"
         {
                 "ControlName"   		"CExLabel"
@@ -293,7 +293,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
- 
+		
         "Uber40"
         {
                 "ControlName"  			"CExLabel"
@@ -312,7 +312,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber50"
         {
                 "ControlName"  			"CExLabel"
@@ -331,7 +331,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber60"
         {
                 "ControlName"   		"CExLabel"
@@ -350,7 +350,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber70"
         {
                 "ControlName"  			"CExLabel"
@@ -369,7 +369,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber80"
         {
                 "ControlName"  			"CExLabel"
@@ -388,7 +388,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber90"
         {
                 "ControlName"  			"CExLabel"
@@ -407,7 +407,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber100"
         {
                 "ControlName"   		"CExLabel"
@@ -426,7 +426,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber0"
         {
                 "ControlName"   		"CExLabel"
@@ -445,7 +445,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber1"
         {
                 "ControlName"   		"CExLabel"
@@ -464,7 +464,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber2"
         {
                 "ControlName"   		"CExLabel"
@@ -483,7 +483,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber3"
         {
                 "ControlName"   		"CExLabel"
@@ -502,7 +502,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber4"
         {
                 "ControlName"   		"CExLabel"
@@ -521,7 +521,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber5"
         {
                 "ControlName"   		"CExLabel"
@@ -540,7 +540,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber6"
         {
                 "ControlName"   		"CExLabel"
@@ -559,7 +559,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber7"
         {
                 "ControlName"   		"CExLabel"
@@ -578,7 +578,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber8"
         {
                 "ControlName"   		"CExLabel"
@@ -597,7 +597,7 @@
                 "alpha"                 "0"
 				"porportionaltoparent"  "1" 
         }
-       
+		
         "Uber9"
         {
                 "ControlName"   		"CExLabel"

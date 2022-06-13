@@ -239,7 +239,7 @@
 		"fieldName"					"Background"
 		"xpos"						"99999"
 	}
-
+	
 	"HealthClusterIcon"
 	{
 		"ControlName"				"ImagePanel"
