@@ -160,7 +160,7 @@
 	
 	CSecondaryTargetID
 	{
-		"ypos"						"310"	//340
+		"ypos"						"405"	//340
 		"tall"	 					"28"
 		"tall_minmode"	 			"28"
 	}

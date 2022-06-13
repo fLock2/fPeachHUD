@@ -203,4 +203,5 @@
 		"teambg_3_lodef"	"../hud/character_blue_bg_lodef"
 		"Alpha"				"0"
 	}
+	
 }

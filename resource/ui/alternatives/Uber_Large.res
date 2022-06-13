@@ -4,9 +4,9 @@
 	{
 		"ControlName"				"EditablePanel"
 		"fieldName"					"UberAnchor"
-		"xpos"						"c150"
+		"xpos"						"c110"
 		"xpos_minmode"				"c165"
-		"ypos"						"r150"
+		"ypos"						"r170"
 		"ypos_minmode"				"r50"
 		"zpos"						"0"
 		"wide"						"2"
@@ -239,7 +239,7 @@
 		"fieldName"					"Background"
 		"xpos"						"99999"
 	}
-	
+
 	"HealthClusterIcon"
 	{
 		"ControlName"				"ImagePanel"

@@ -11,7 +11,7 @@
 		"tall"						"480"
 		"visible"					"1"
 		"enabled"					"1"	
-		"HealthBonusPosAdj"			"35"
+		"HealthBonusPosAdj"			"27"
 		"HealthDeathWarning"		"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}
@@ -20,9 +20,9 @@
 	{
 		"ControlName"				"EditablePanel"
 		"fieldName"					"HealthAnchor"
-		"xpos"						"c-150"
+		"xpos"						"c-110"
 		"xpos_minmode"				"c-165"
-		"ypos"						"r150"
+		"ypos"						"r170"
 		"ypos_minmode"				"r50"
 		"zpos"						"0"
 		"wide"						"2"
@@ -36,9 +36,9 @@
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"PlayerStatusHealthBonusImage"
-		"xpos"						"c-169"
+		"xpos"						"c-129"
 		"xpos_minmode"				"c-189"
-		"ypos"						"r146"
+		"ypos"						"r166"
 		"ypos_minmode"				"r46"
 		"ypos"						"43"
 		"zpos"						"2"
@@ -47,7 +47,7 @@
 		"tall"						"41"
 		"tall_minmode"				"61"
 		"visible"					"0"
-		"enabled"					"1"
+		"enabled"					"0"
 		"image"						"../hud/health_over_bg"
 		"scaleImage"				"1"	
 	}
@@ -141,7 +141,7 @@
 	{
 		"ControlName"				"EditablePanel"
 		"fieldName"					"StatusIconsAnchor"
-		"xpos"						"0"
+		"xpos"						"-15"
 		"ypos"						"-14"
 		"ypos_minmode"				"-17"
 		"zpos"						"0"

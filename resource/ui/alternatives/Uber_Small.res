@@ -1,12 +1,12 @@
 "Resource/UI/HudMedicCharge.res"
-{	
+{		
 	"UberAnchor"					//Use this to move the health
 	{
 		"ControlName"				"EditablePanel"
 		"fieldName"					"UberAnchor"
-		"xpos"						"c150"
+		"xpos"						"c110"
 		"xpos_minmode"				"c165"
-		"ypos"						"r150"
+		"ypos"						"r170"
 		"ypos_minmode"				"r50"
 		"zpos"						"0"
 		"wide"						"2"
@@ -227,14 +227,14 @@
 		"fieldName"					"Background"
 		"xpos"						"99999"
 	}
-	
+
 	"HealthClusterIcon"
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"HealthClusterIcon"
 		"xpos"						"99999"
 	}
-	
+
 	// UBER TRACKING LABELS, PUT THIS IN /TF/CUSTOM/(YOURCUSTOMFOLDER)/RESOURCE/UI/HUDMEDICCHARGE.RES
        
         "Uber10"

@@ -236,7 +236,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"paintborder"	"1"
-			"border"		"BlackTransparent50"
+			"border"		"BlackTransparent70"
 		}
 		
 		"ItemNameLabel"

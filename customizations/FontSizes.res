@@ -142,5 +142,4 @@ Scheme
 				"dropshadow"	"0"
 			}
 		}
-	}
 }

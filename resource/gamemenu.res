@@ -44,7 +44,7 @@
 	{
 		"label"			""
 		"command"		"engine play items/samurai/tf_samurai_noisemaker_setb_02.wav"
-		"tooltip"		"Released May 7, 2022"
+		"tooltip"		"Released June 7, 2022"
 		"OnlyAtMenu"	"1"
 	}
 	///////////////////////////////////////////////////////////////////
@@ -122,7 +122,7 @@
 	"HUDCredits"
 	{
 		"label"			"<"
-		"command"		"engine con_enable 1;showconsole;echo ;echo ;echo ***************************************;echo * ------------ PeachHUD ------------- *;echo * ------ A HUD made by Peaches ------ *;echo * ------- Twitch.tv/PeachesTV ------- *;echo ***************************************;echo ;echo ***************************************;echo * ------- Based on SunsetHUD -------- *;echo * ---------- By Hypnotize ----------- *;echo * ------ Github.com/Hypnootize ------ *;echo ***************************************;echo ;echo ***************************************;echo * --------- HUD Crosshairs ---------- *;echo * ---------- By Hypnotize ----------- *;echo * ------ Github.com/Hypnootize ------ *;echo ***************************************;echo ;echo ***************************************;echo * ------ Material Design VTFs ------- *;echo * ---- By extracrispy and Rawsor ---- *;echo * -- Probably somewhere on the web -- *;echo ***************************************;echo ;echo ***************************************;echo * --------- Menu Background --------- *;echo * ----- GMK Fuyu Deskmat Render ----- *;echo * --------- Link on Github ---------- *;echo ***************************************;echo ;echo ***************************************;echo * -- Complete credits available at -- *;echo * -- Github.com/PapaPeach/PeachHUD -- *;echo ***************************************;echo ;echo ;"
+ 		"command"		"engine con_enable 1;showconsole;echo ;echo ;echo ***************************************;echo * ----------- fLPeachHUD ------------ *;echo * --- PeachHUD modified by fLock ---- *;echo * -------- Twitch.tv/fLock2_ -------- *;echo ***************************************;echo ;echo ***************************************;echo * ------------ PeachHUD ------------- *;echo * ------ A HUD made by Peaches ------ *;echo * ------- Twitch.tv/PeachesTV ------- *;echo ***************************************;echo ;echo ***************************************;echo * ------- Based on SunsetHUD -------- *;echo * ---------- By Hypnotize ----------- *;echo * ------ Github.com/Hypnootize ------ *;echo ***************************************;echo ;echo ***************************************;echo * --------- HUD Crosshairs ---------- *;echo * ---------- By Hypnotize ----------- *;echo * ------ Github.com/Hypnootize ------ *;echo ***************************************;echo ;echo ***************************************;echo * ------ Material Design VTFs ------- *;echo * ---- By extracrispy and Rawsor ---- *;echo * -- Probably somewhere on the web -- *;echo ***************************************;echo ;echo ***************************************;echo * --------- Menu Background --------- *;echo * ----- GMK Fuyu Deskmat Render ----- *;echo * --------- Link on Github ---------- *;echo ***************************************;echo ;echo ***************************************;echo * -- Complete credits available at -- *;echo * -- Github.com/PapaPeach/PeachHUD -- *;echo ***************************************;echo ;echo ;"
 		"tooltip"		"HUD Credits"
 		"OnlyAtMenu"	"1"
 	}
@@ -168,19 +168,19 @@
 	"White"
 	{
 		"label"			"0"
-		"command"		"engine hud_combattext 1; hud_combattext_red 235; hud_combattext_green 235; hud_combattext_blue 235; echo - Damage color set to White.; showconsole"
+ 		"command"		"engine hud_combattext 1; hud_combattext_red 235; hud_combattext_green 235; hud_combattext_blue 235; echo - Damage color set to White.; showconsole"
 		"OnlyInGame"	"1"
 	}
 	"Yellow"
 	{
 		"label"			"0"
-		"command"		"engine hud_combattext 1; hud_combattext_red 255; hud_combattext_green 235; hud_combattext_blue 0; echo - Damage color set to Yellow.; showconsole"
+ 		"command"		"engine hud_combattext 1; hud_combattext_red 255; hud_combattext_green 235; hud_combattext_blue 0; echo - Damage color set to Yellow.; showconsole"
 		"OnlyInGame"	"1"
 	}
 	"Orange"
 	{
 		"label"			"0"
-		"command"		"engine hud_combattext 1; hud_combattext_red 255; hud_combattext_green 200; hud_combattext_blue 55; echo - Damage color set to Orange.; showconsole"
+ 		"command"		"engine hud_combattext 1; hud_combattext_red 255; hud_combattext_green 200; hud_combattext_blue 55; echo - Damage color set to Orange.; showconsole"
 		"OnlyInGame"	"1"
 	}
 	"Red"
@@ -192,13 +192,13 @@
 	"Blue"
 	{
 		"label"			"0"
-		"command"		"engine hud_combattext 1; hud_combattext_red 150; hud_combattext_green 200; hud_combattext_blue 220; echo - Damage color set to Blue.; showconsole"
+ 		"command"		"engine hud_combattext 1; hud_combattext_red 150; hud_combattext_green 200; hud_combattext_blue 220; echo - Damage color set to Blue.; showconsole"
 		"OnlyInGame"	"1"
 	}
 	"Green"
 	{
 		"label"			"0"
-		"command"		"engine hud_combattext 1; hud_combattext_red 40; hud_combattext_green 200; hud_combattext_blue 110; echo - Damage color set to Green.; showconsole"
+ 		"command"		"engine hud_combattext 1; hud_combattext_red 40; hud_combattext_green 200; hud_combattext_blue 110; echo - Damage color set to Green.; showconsole"
 		"OnlyInGame"	"1"
 	}
 	
@@ -221,7 +221,7 @@
 		"tooltip"		"Toggle Voice Chat"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"NotificationsPanel"
 	{
 		"command"		"engine"
@@ -240,7 +240,7 @@
 		"OnlyInGame"	"1"
 	}
 	
-	"MinmodePanel"
+	"MinModePanel"
 	{
 		"command"		"engine"
 		"OnlyInGame"	"1"
@@ -248,7 +248,7 @@
 	"MinmodeON"
 	{
 		"label"			"J"
-		"command"		"engine cl_hud_minmode 1; cl_hud_minmode; showconsole"
+		"command"		"cl_hud_minmode 1; cl_hud_minmode; showconsole"
 		"OnlyInGame"	"1"
 	}
 	"MinmodeOFF"
@@ -266,13 +266,13 @@
 	"MatchHudON"
 	{
 		"label"			"J"
-		"command"		"engine tf_use_match_hud 1; tf_use_match_hud; echo - Enable the player list at the top of the screen.; showconsole"
+ 		"command"		"engine tf_use_match_hud 1; tf_use_match_hud; echo - Enable the player list at the top of the screen.; showconsole"
 		"OnlyInGame"	"1"
 	}
 	"MatchHudOFF"
 	{
 		"label"			"W"
-		"command"		"engine tf_use_match_hud  0; tf_use_match_hud; echo - Enable the player list at the top of the screen.; showconsole"
+ 		"command"		"engine tf_use_match_hud  0; tf_use_match_hud; echo - Enable the player list at the top of the screen.; showconsole"
 		"OnlyInGame"	"1"
 	}
 	
@@ -284,13 +284,13 @@
 	"CaptionsON"
 	{
 		"label"			"J"
-		"command"		"engine closecaption 1;cc_subtitles 0;cc_lang english;cc_predisplay_time 0;cc_emit #subtitles0; closecaption; showconsole"
+ 		"command"		"engine closecaption 1;cc_subtitles 0;cc_lang english;cc_predisplay_time 0;cc_emit #subtitles0; closecaption; showconsole"
 		"OnlyInGame"	"1"
 	}
 	"CaptionsOFF"
 	{
 		"label"			"W"
-		"command"		"engine closecaption 0; cc_predisplay_time 0; closecaption; showconsole"
+ 		"command"		"engine closecaption 0; cc_predisplay_time 0; closecaption; showconsole"
 		"OnlyInGame"	"1"
 	}
 	
@@ -302,13 +302,13 @@
 	"NetGraphON"
 	{
 		"label"			"J"
-		"command"		"engine net_graph 1; net_graph; showconsole"
+ 		"command"		"engine net_graph 1; net_graph; showconsole"
 		"OnlyInGame"	"1"
 	}
 	"NetGraphOFF"
 	{
 		"label"			"W"
-		"command"		"engine net_graph 0; net_graph; showconsole"
+ 		"command"		"engine net_graph 0; net_graph; showconsole"
 		"OnlyInGame"	"1"
 	}
 	

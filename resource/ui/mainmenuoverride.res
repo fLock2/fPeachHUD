@@ -247,7 +247,7 @@
 		"textAlignment"				"west"
 		"AllCaps"					"0"
 		"use_proportional_insets"	"1"
-		"labelText"					"Version 3.2.0"
+		"labelText"					"Version f3.2.0"
 	}
 	
 	"InfoSeparatorLine"
@@ -725,7 +725,7 @@
 		"textAlignment"				"center"
 		"AllCaps"					"0"
 		"use_proportional_insets"	"1"
-		"labelText"					"Based on SunsetHUD by Hypnotize"
+		"labelText"					"Based on SunsetHUD by Hypnotize and modified (lightly) by fLock"
 		"bgcolor_override"			"Blank"
 		
 		"pin_to_sibling" 			"HudTitle"
